@@ -1,2 +1,2 @@
 # plusator
-simple calc using js
+simple game
